@@ -1,6 +1,7 @@
 # 目錄
 
 - [2402. Meeting Rooms III](./2402.%20Meeting%20Rooms%20III.md)
+- [2425. Bitwise XOR of All Pairings](./2425.%20Bitwise%20XOR%20of%20All%20Pairings.md)
 - [2429. Minimize XOR](./2429.%20Minimize%20XOR.md)
 - [2441. Largest Positive Integer That Exists With Its Negative](./2441.%20Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative.md)
 - [2444. Count Subarrays With Fixed Bounds](./2444.%20Count%20Subarrays%20With%20Fixed%20Bounds.md)
