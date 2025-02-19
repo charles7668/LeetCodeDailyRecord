@@ -1,6 +1,7 @@
 # 目錄
 
 - [1408. String Matching in an Array](./1408.%20String%20Matching%20in%20an%20Array.md)
+- [1415. The k-th Lexicographical String of All Happy Strings of Length n](./1415.%20The%20k-th%20Lexicographical%20String%20of%20All%20Happy%20Strings%20of%20Length%20n.md)
 - [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](./1455.%20Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence.md)
 - [1460. Make Two Arrays Equal by Reversing Subarrays](./1460.%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Subarrays.md)
 - [1462. Course Schedule IV](./1462.%20Course%20Schedule%20IV.md)
