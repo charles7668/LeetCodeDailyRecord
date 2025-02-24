@@ -8,5 +8,6 @@
 - [2458. Height of Binary Tree After Subtree Removal Queries](./2458.%20Height%20of%20Binary%20Tree%20After%20Subtree%20Removal%20Queries.md)
 - [2461. Maximum Sum of Distinct Subarrays With Length K](./2461.%20Maximum%20Sum%20of%20Distinct%20Subarrays%20With%20Length%20K.md)
 - [2466. Count Ways To Build Good Strings](./2466.%20Count%20Ways%20To%20Build%20Good%20Strings.md)
+- [2467. Most Profitable Path in a Tree](./2467.%20Most%20Profitable%20Path%20in%20a%20Tree.md)
 - [2485. Find the Pivot Integer](./2485.%20Find%20the%20Pivot%20Integer.md)
 - [2487. Remove Nodes From Linked List](./2487.%20Remove%20Nodes%20From%20Linked%20List.md)
