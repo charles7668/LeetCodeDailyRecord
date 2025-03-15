@@ -6,5 +6,6 @@
 - [2540. Minimum Common Value](./2540.%20Minimum%20Common%20Value.md)
 - [2558. Take Gifts From the Richest Pile](./2558.%20Take%20Gifts%20From%20the%20Richest%20Pile.md)
 - [2559. Count Vowel Strings in Ranges](./2559.%20Count%20Vowel%20Strings%20in%20Ranges.md)
+- [2560. House Robber IV](./2560.%20House%20Robber%20IV.md)
 - [2579. Count Total Number of Colored Cells](./2579.%20Count%20Total%20Number%20of%20Colored%20Cells.md)
 - [2582. Pass the Pillow](./2582.%20Pass%20the%20Pillow.md)
