@@ -9,3 +9,4 @@
 - [2560. House Robber IV](./2560.%20House%20Robber%20IV.md)
 - [2579. Count Total Number of Colored Cells](./2579.%20Count%20Total%20Number%20of%20Colored%20Cells.md)
 - [2582. Pass the Pillow](./2582.%20Pass%20the%20Pillow.md)
+- [2594. Minimum Time to Repair Cars](./2594.%20Minimum%20Time%20to%20Repair%20Cars.md)
