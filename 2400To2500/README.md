@@ -1,5 +1,6 @@
 # 目錄
 
+- [2401. Longest Nice Subarray](./2401.%20Longest%20Nice%20Subarray.md)
 - [2402. Meeting Rooms III](./2402.%20Meeting%20Rooms%20III.md)
 - [2425. Bitwise XOR of All Pairings](./2425.%20Bitwise%20XOR%20of%20All%20Pairings.md)
 - [2429. Minimize XOR](./2429.%20Minimize%20XOR.md)
