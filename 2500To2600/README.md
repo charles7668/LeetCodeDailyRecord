@@ -8,6 +8,7 @@
 - [2558. Take Gifts From the Richest Pile](./2558.%20Take%20Gifts%20From%20the%20Richest%20Pile.md)
 - [2559. Count Vowel Strings in Ranges](./2559.%20Count%20Vowel%20Strings%20in%20Ranges.md)
 - [2560. House Robber IV](./2560.%20House%20Robber%20IV.md)
+- [2563. Count the Number of Fair Pairs](./2563.%20Count%20the%20Number%20of%20Fair%20Pairs.md)
 - [2579. Count Total Number of Colored Cells](./2579.%20Count%20Total%20Number%20of%20Colored%20Cells.md)
 - [2582. Pass the Pillow](./2582.%20Pass%20the%20Pillow.md)
 - [2594. Minimum Time to Repair Cars](./2594.%20Minimum%20Time%20to%20Repair%20Cars.md)
